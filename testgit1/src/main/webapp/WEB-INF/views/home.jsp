@@ -9,6 +9,6 @@
 	Hello world!  
 </h1>
 
-<P>  java world view manse!!!!! 851 view!!!! The time on the server is ${serverTime}. </P>
+<P>  java world view dddmanse!!!!! 851 view!!!! The time on the server is ${serverTime}. </P>
 </body>
 </html>
